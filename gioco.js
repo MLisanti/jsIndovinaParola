@@ -2,7 +2,7 @@ var parolaSegreta = "parola";
 var bitMask = "000000"
 var erroriFatti = 0;
 
-function reset() {
+function resetGioco() {
 	bitMask = "000000";
   	errori = 0;
   	document.getElementById("risultato").innerText = 
