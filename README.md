@@ -1,4 +1,7 @@
 # jsIndovinaParola
-Il nome si può scomporre. E' S-E-M-P-L-I-C-E !
+Funzioni principali del gioco "Impiccato" in javascript.
 
-Usa una maschera di bits per nascondere le parole che non sono state indovinate!
+Presente una parola fissa da indovinare.
+Funzioni per visualizzare il risultato finale a schermo, usando una stringa\maschera di bit
+
+Click bottone --> indovina lettera
